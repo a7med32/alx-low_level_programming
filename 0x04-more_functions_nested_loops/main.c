@@ -7,7 +7,6 @@
 
 int main(void)
 {
-	printf ("1:%d", mul(1,2));
-	printf ("2:%d", mul(3,4));
+	print_most_numbers();
 	return (0);
 }
