@@ -4,7 +4,8 @@
  *
  *Description: 'the program's description'
  *
- * @c :the char
+ * @a :the first num
+ * @b :the second num
  *
  *Return: Always 0 (Success)
  **/
