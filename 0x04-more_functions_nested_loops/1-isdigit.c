@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_isupper- check if c is uppercase
+ *_isdigit- check if c is uppercase
  *
  *Description: 'the program's description'
  *
