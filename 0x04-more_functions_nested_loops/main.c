@@ -7,10 +7,7 @@
 
 int main(void)
 {
-	char i,j;
-	i = 'A';
-	j = 'a';
-	printf ("1:%d", _isupper(i));
-	printf ("2:%d", _isupper(j));
+	printf ("1:%d", mul(1,2));
+	printf ("2:%d", mul(3,4));
 	return (0);
 }

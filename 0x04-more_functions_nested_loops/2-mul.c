@@ -7,11 +7,13 @@
  * @a :the first num
  * @b :the second num
  *
- *Return: Always 0 (Success)
+ *Return: a *b
  **/
 
 int mul(int a, int b)
 {
+	int i;
 
-	return (a * b);
+	i = a * b;
+	return (i);
 }
