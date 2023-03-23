@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  *_isupper- check if c is uppercase
  *
@@ -10,7 +10,8 @@
  **/
 
 int _isupper(int c)
-{
+{	int i;
+
 	for (i = 65; i <= 90; i++)
 	{
 		if (c == i)
