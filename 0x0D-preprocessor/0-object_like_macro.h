@@ -1,0 +1,6 @@
+#ifndef _OBJECT_LILKE_MACRO_H
+#define _OBJECT_LILKE_MACRO_H
+
+#define SIZE 1024
+
+#endif /* _OBJECT_LIKE_MARCO_H*/
